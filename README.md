@@ -1,13 +1,11 @@
 # Smooth-Transition
 🌟 Major Project 1: Dynamic Section Transitions 🚀 Created a seamless toggle between White and Black sections using HTML, CSS, and React. Smooth transitions, state management with React’s useState, and a centered layout via CSS Flexbox bring this project to life. Phrases like “Welcome to my Project” make it uniquely mine.
 
-# Project Concept:
-This project demonstrates how to create smooth and seamless transitions between two visually contrasting sections—white and black—using HTML, CSS, and React. A button acts as a trigger to toggle the sections dynamically, providing users with an interactive and visually appealing experience.
 
 # Project Title:
 Create Transition Effects from White Section to Black Section Using HTML, CSS, and React
 
-# Project Concept**:  
+# Project Concept:  
 This project demonstrates how to create smooth and seamless transitions between two visually contrasting sections—**white** and **black**—using **HTML, CSS, and React**. A button acts as a trigger to toggle the sections dynamically, providing users with an interactive and visually appealing experience.
 
 
